@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Hello, I'm Paul Kunda.
 
 - 👀 I’m interested in Backend Development and Android Development
-- 🌱 I’m currently learning C# and VueJs
+- 🌱 I’m currently learning C# and Flutter/VueJs
 - 💞️ I’m looking to collaborate on Zambian/Africa OpenSource Projects that have impact on climate change.
 - 📫 How to reach me send an email to pkunda24@gmail.com/ paulouskunda@gmail.com / pkunda@visionarymindszm.com, call/whatsapp on +2609721574 and Twitter @paulousranks
 - Looking forward to hearing from you and seeing how we can collaborate towards making the world a better place using mathematics and programming.
